@@ -159,15 +159,17 @@
 .btn-b{
   background-color:#C6E4D6;
 }
-.Amount{
+.Amount input[type="text"]{
   padding: 40px 20px;
   width: 1032px;
   height: 64px;
-}
-.Amount-text{
+  color: rgba(14, 14, 14, 0.15);
   text-align: center;
-  color: rgba(14, 14, 14, 0.3);
+  margin-top: 24px;
+  margin-bottom: 24px;
+  border: none;
 }
+
 .btn-done{
  text-align: center;
 }
